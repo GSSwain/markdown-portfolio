@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Girija's Image](https://github.com/GSSwain/GSSwain.github.io/blob/master/Girija-Pro.jpeg)
