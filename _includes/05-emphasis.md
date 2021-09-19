@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I already have my profile [here](https://gsswain.com) hosted using **Github Pages**.
